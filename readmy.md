@@ -16,4 +16,21 @@ git commit -m "Create index html"
 
 git status
 
-git status
+git add .
+git commit -m "V2"
+'''
+##Lister les branch
+'''
+git branch
+
+git branch feature / nom de branch à creer
+
+git checkout feature / changer de branch
+
+git checkout master
+git
+git merge feature / merger fusionner ton projet dans master
+
+git branch -d feature / supprimer la feature
+
+git checkout -b section2 / créer et aller dans section2
