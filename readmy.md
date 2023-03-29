@@ -34,3 +34,6 @@ git merge feature / merger fusionner ton projet dans master
 git branch -d feature / supprimer la feature
 
 git checkout -b section2 / créer et aller dans section2
+
+git log
+

@@ -1,0 +1,39 @@
+nav .na-link{
+
+
+}
+
+.container{
+    max-width: 1150px;
+}
+.btn-lg{
+    padding: 0.6rem 0.6rem;
+    font-size: 1.3rem;
+    border-radius: .3rem
+}
+
+.textgray600 {
+    /* filter: invert(72%) sepia(38%) saturate(261%) hue-rotate(177deg) brightness(79%) contrast(82%); */
+    filter: invert(65%) sepia(2%) saturate(4597%) hue-rotate(166deg) brightness(92%) contrast(90%);
+}
+
+.shapefluidx {
+    pointer-events: none;
+    position: relative;
+    height: auto;
+    width: 100%;
+    /* filter: invert(99%) sepia(5%) saturate(306%) hue-rotate(278deg) brightness(117%) contrast(100%); */
+    filter: invert(72%) sepia(38%) saturate(261%) hue-rotate(177deg) brightness(79%) contrast(82%);
+
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+/* .card-img-top-1{
+    position: absolute;
+    bottom: 10;
+    left: 0;
+    right: 0;
+} */
+
